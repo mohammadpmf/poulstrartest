@@ -1,6 +1,7 @@
 str ="I'm writing some test string and you should finde something in it"
 substr = str.find("some", 20, 50)
 print(substr)
+print(substr)
 
 
 
